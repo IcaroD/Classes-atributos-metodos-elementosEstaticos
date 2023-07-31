@@ -1,0 +1,15 @@
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\bin\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.exe
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\bin\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.deps.json
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\bin\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.runtimeconfig.json
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\bin\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.dll
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\bin\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.pdb
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\obj\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.csproj.AssemblyReference.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\obj\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\obj\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.AssemblyInfoInputs.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\obj\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.AssemblyInfo.cs
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\obj\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\obj\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.dll
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\obj\Debug\net7.0\refint\Classes-atributos-metodos-elementosEstaticos.dll
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\obj\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.pdb
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\obj\Debug\net7.0\Classes-atributos-metodos-elementosEstaticos.genruntimeconfig.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\Classes-atributos-metodos-elementosEstaticos\obj\Debug\net7.0\ref\Classes-atributos-metodos-elementosEstaticos.dll
